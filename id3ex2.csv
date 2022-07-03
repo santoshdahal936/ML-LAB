@@ -1,0 +1,11 @@
+a1,a2,a3,classification
+T,Hot,High,no
+T,Hot,High,no
+F,Hot,High,yes
+F,Cool,Normal,yes
+F,Cool,Normal,yes
+T,Cool,High,no
+T,Hot,High,no
+T,Hot,Normal,yes
+F,Cool,Normal,yes
+F,Cool,High,yes
